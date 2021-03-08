@@ -8,5 +8,4 @@ To install Selenium:
 ```pip install selenium```
 
 Link to download web drivers:
-```
-https://www.selenium.dev/documentation/en/getting_started_with_webdriver/browsers/```
+https://www.selenium.dev/documentation/en/getting_started_with_webdriver/browsers/
